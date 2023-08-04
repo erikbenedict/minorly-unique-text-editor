@@ -45,7 +45,7 @@ Below is a screenshots of the application
 
 ## Deployed Application
 
-[Click here to try M.U.T.E. for yourself!](https://mute-b1178a282a10.herokuapp.com/)
+[Click here to try M.U.T.E. for yourself!](https://mute-8aface8efda8.herokuapp.com/)
 
 ## Contributing
 
