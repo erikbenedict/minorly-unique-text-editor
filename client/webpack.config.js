@@ -39,11 +39,6 @@ module.exports = () => {
             sizes: [40, 128, 192, 256, 384, 512],
             destination: path.join('assets', 'icons'),
           },
-          // {
-          //   src: path.resolve('favicon.ico'),
-          //   sizes: [16, 32],
-          //   destination: path.join('assets', 'favicons'),
-          // },
         ],
       }),
     ],
